@@ -1,0 +1,2 @@
+# MoneyBall
+Sabermetrics using R !
